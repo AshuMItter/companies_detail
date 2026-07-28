@@ -1,0 +1,14 @@
+{
+"company": {
+    "name": "TechInnovate Solutions",
+    "founded": 2015,
+    "is_active": 'true',
+    "rating": 4.8,
+    "headquarters": {
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "USA",
+      "zip_code": "94105"
+    }
+}
+}
