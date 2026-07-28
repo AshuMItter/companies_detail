@@ -10,5 +10,17 @@
       "country": "USA",
       "zip_code": "94105"
     }
+  },
+  {
+    "name": "QuickTech",
+    "founded": 2023,
+    "is_active": true,
+    "rating": 4.7,
+    "headquarters": {
+      "city": "Dallas",
+      "state": "TX",
+      "country": "USA",
+      "zip_code": "75201"
+    }
   }
 ]
