@@ -2,7 +2,7 @@
 "company": {
     "name": "TechInnovate Solutions",
     "founded": 2015,
-    "is_active": true,
+    "is_active": True,
     "rating": 4.8,
     "headquarters": {
       "city": "San Francisco",
