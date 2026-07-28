@@ -22,5 +22,17 @@
       "country": "USA",
       "zip_code": "75201"
     }
+  },
+  {
+    "name": "QuickTechJapan",
+    "founded": 2023,
+    "is_active": true,
+    "rating": 4.5,
+    "headquarters": {
+      "city": "Hiroshima",
+      "state": "Tk",
+      "country": "Jaoan",
+      "zip_code": "4567"
+    }
   }
 ]
