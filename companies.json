@@ -1,1 +1,14 @@
-{"company": ["{\n\"company\": {\n    \"name\": \"TechInnovate Solutions\",\n    \"founded\": 2015,\n    \"is_active\": true,\n    \"rating\": 4.8,\n    \"headquarters\": {\n      \"city\": \"San Francisco\",\n      \"state\": \"CA\",\n      \"country\": \"USA\",\n      \"zip_code\": \"94105\"\n    }\n}\n}\n", {"name": "QuickTech", "founded": 2023, "is_active": true, "rating": 4.7, "headquarters": {"city": "Dallas", "state": "TX", "country": "USA", "zip_code": "75201"}}]}
+[
+  {
+    "name": "TechInnovate Solutions",
+    "founded": 2015,
+    "is_active": true,
+    "rating": 4.8,
+    "headquarters": {
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "USA",
+      "zip_code": "94105"
+    }
+  }
+]
