@@ -36,15 +36,12 @@
     }
   },
   {
-    "name": "QuickTechLondon",
+    "name": "QuickTechLondonErroredJson",
     "founded": 2034,
     "is_active": true,
     "rating": 4.8,
     "headquarters": {
-      "city": "Yorkshire",
-      "state": "London",
-      "country": "UK",
-      "zip_code": "456768"
+      "city": "Yorkshire"     
     }
   }
 ]
